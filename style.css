@@ -806,3 +806,17 @@
 @media(max-width:1080px) and (min-width:821px){.gd-nav-link{font-size:15px!important}}
 @media(max-width:820px){.gd-mobile-panel>a{font-size:18px!important}.gd-mobile-label{font-size:15px!important}.gd-mobile-sub a{font-size:16px!important}.gd-stat span{font-size:15px!important}.gd-page-hero p,.gd-desc{font-size:16px!important}.gd-kicker{font-size:15px!important}}
 @media(max-width:600px){.gd-breadcrumb,.gd-page-hero .gd-breadcrumb{font-size:14px!important}#gd-home-hero .gd-home-slide-kicker{font-size:13px!important}#gd-home-hero .gd-home-slide-benefit strong{font-size:13px!important}#gd-home-hero .gd-home-slide-benefit span{font-size:12px!important}#gd-home-hero .gd-home-slide-desc{font-size:15px!important}.gd-main-service-copy p{font-size:18px!important}.gd-faq-title{font-size:16px!important}.gd-stats-box .gd-stat span{font-size:14px!important}#gd-home-hero .gd-home-slide-benefits-4{gap:4px 6px!important;max-width:280px!important;justify-content:center!important}#gd-home-hero .gd-home-slide-benefits-4 .gd-home-slide-icon{margin-bottom:3px!important}.gd-review-grid{margin-top:48px!important}.gd-program-help{font-size:15px!important;margin-top:24px!important}}
+
+
+#gd-header .gd-logo-img{height:54px!important;max-width:270px!important;width:auto!important;object-fit:contain!important}
+#gd-footer .gd-footer-logo-img{display:block!important;height:44px!important;max-width:240px!important;width:auto!important;object-fit:contain!important;background:#fff!important;padding:8px 12px!important;border-radius:8px!important;box-sizing:content-box!important}
+.gd-header-cta,.gd-btn-yellow,#gd-home-hero .gd-home-slide-button,.gd-subnav a.active,.gd-page-hero-image .gd-subnav a.active,.gd-area-num,.gd-map-pin{color:#fff!important}
+.gd-header-cta,.gd-btn-yellow,#gd-home-hero .gd-home-slide-button,.gd-subnav a.active,.gd-page-hero-image .gd-subnav a.active,.gd-area-num,.gd-map-pin{background:#198754!important}
+.gd-subnav a.active,.gd-page-hero-image .gd-subnav a.active{border-color:#198754!important}
+.gd-link-card:nth-child(3),.gd-link-card:nth-child(3) .num,.gd-link-card:nth-child(3) h3,.gd-link-card:nth-child(3) p,.gd-link-card:nth-child(3) .arr{color:#fff!important}
+#muv-side-floating .muv-side-cs,#muv-side-floating .muv-side-cs .muv-side-title,#muv-side-floating .muv-side-cs .muv-side-hours{color:#fff!important}
+#muv-side-floating .muv-side-cs svg{filter:invert(1)!important}
+.gd-price-card:nth-child(3){color:#171717!important}
+.gd-price-card:nth-child(3) h2,.gd-price-card:nth-child(3) .gd-price-row,.gd-price-card:nth-child(3) .gd-price-row strong{color:#171717!important}
+@media(max-width:820px){#gd-header .gd-logo-img{height:44px!important;max-width:215px!important}}
+@media(max-width:600px){#gd-header .gd-logo-img{height:38px!important;max-width:195px!important}#gd-footer .gd-footer-logo-img{height:38px!important;max-width:210px!important}}
