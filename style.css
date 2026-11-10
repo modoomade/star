@@ -720,3 +720,77 @@
     flex:0 0 calc((100% - 14px) / 2) !important;
   }
 }
+
+#gd-header .gd-nav-link,
+#gd-header .gd-dropdown a,
+.gd-mobile-panel > a,
+.gd-mobile-panel .gd-mobile-label,
+.gd-mobile-panel .gd-mobile-sub a {
+  font-family: "Pretendard", "Noto Sans KR", Arial, sans-serif !important;
+  font-weight: 500 !important;
+  letter-spacing: -0.025em !important;
+}
+
+.gd-faq .gd-faq-title,
+.gd-faq .gd-faq-q,
+.gd-faq .gd-faq-num {
+  font-family: "Pretendard", "Noto Sans KR", Arial, sans-serif !important;
+  font-weight: 500 !important;
+  letter-spacing: -0.025em !important;
+}
+
+.gd-faq .gd-faq-a p {
+  font-family: "Pretendard", "Noto Sans KR", Arial, sans-serif !important;
+  font-weight: 400 !important;
+}
+
+
+#gd-header .gd-nav-link{font-size:17px!important}
+#gd-header .gd-dropdown a{font-size:16px!important}
+#gd-header .gd-header-cta{font-size:16px!important}
+.gd-mobile-panel>a{font-size:18px!important}
+.gd-mobile-panel .gd-mobile-label{font-size:15px!important}
+.gd-mobile-panel .gd-mobile-sub a{font-size:16px!important}
+.gd-page-hero .gd-breadcrumb{font-size:15px!important}
+.gd-page-hero p{font-size:19px!important}
+.gd-page-hero .gd-subnav a{font-size:16px!important}
+.gd-stat span{font-size:16px!important}
+#gd-home-hero .gd-home-slide-kicker{font-size:16px!important}
+#gd-home-hero .gd-home-slide-benefit strong{font-size:15px!important}
+#gd-home-hero .gd-home-slide-benefit span{font-size:14px!important}
+#gd-home-hero .gd-home-slide-desc{font-size:17px!important}
+#gd-home-hero .gd-home-slide-button{font-size:16px!important}
+.gd-main-service-copy p{font-size:17px!important}
+.gd-kicker{font-size:15px!important}
+.gd-desc{font-size:18px!important}
+.gd-program-link span,.gd-program-badge .label,.gd-day-card .day{font-size:16px!important}
+.gd-program-link p,.gd-day-card p,.gd-program-copy p{font-size:16px!important}
+.gd-info-card p,.gd-review-card p,.gd-price-card p,.gd-check,.gd-benefit{font-size:16px!important}
+.gd-faq .gd-faq-title{font-size:17px!important}
+.gd-faq .gd-faq-num{font-size:15px!important}
+.gd-faq .gd-faq-a p{font-size:16px!important}
+@media (min-width:821px) and (max-width:1080px){
+  #gd-header .gd-nav-link{font-size:15px!important}
+  #gd-header .gd-nav{gap:14px!important}
+}
+@media(max-width:820px){
+  .gd-page-hero .gd-breadcrumb{font-size:14px!important}
+  .gd-page-hero p{font-size:17px!important}
+  .gd-stat span{font-size:15px!important}
+}
+@media(max-width:600px){
+  #gd-home-hero .gd-home-slide-kicker{font-size:13px!important}
+  #gd-home-hero .gd-home-slide-benefit strong{font-size:12px!important}
+  #gd-home-hero .gd-home-slide-benefit span{font-size:11.5px!important}
+  #gd-home-hero .gd-home-slide-desc{font-size:14px!important}
+  #gd-home-hero .gd-home-slide-button{font-size:14px!important}
+  .gd-main-service-copy p{font-size:16px!important}
+  .gd-stat span{font-size:14px!important}
+  .gd-page-hero p{font-size:16px!important}
+  .gd-page-hero .gd-subnav a{font-size:15px!important}
+  .gd-kicker{font-size:13px!important}
+  .gd-desc{font-size:16px!important}
+  .gd-faq .gd-faq-title{font-size:16px!important}
+  .gd-faq .gd-faq-num{font-size:14px!important}
+  .gd-faq .gd-faq-a p{font-size:15px!important}
+}
