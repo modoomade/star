@@ -836,3 +836,11 @@
 #gd-footer .gd-footer-brand{padding:8px 12px!important}
 @media(max-width:820px){#gd-header .gd-logo-img,#gd-footer .gd-footer-logo-img{height:38px!important;max-width:210px!important}}
 @media(max-width:600px){#gd-header .gd-logo-img,#gd-footer .gd-footer-logo-img{height:34px!important;max-width:190px!important}}
+
+
+#gd-footer .gd-footer-bottom{display:flex!important;justify-content:center!important;align-items:center!important;text-align:center!important}
+#gd-footer .gd-footer-copy{width:100%!important;text-align:center!important}
+#gd-footer .gd-footer-contact-title{color:#ffffff!important;-webkit-text-fill-color:#ffffff!important}
+#gd-footer .gd-footer-contact-item strong{color:#6ed19b!important;-webkit-text-fill-color:#6ed19b!important}
+#gd-footer .gd-footer-contact-item span{color:#f1f1f1!important;-webkit-text-fill-color:#f1f1f1!important}
+@media(max-width:820px){#gd-footer .gd-footer-bottom{align-items:center!important;justify-content:center!important}}
