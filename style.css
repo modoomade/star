@@ -851,7 +851,7 @@
 .gd-page-hero .gd-subnav a,.gd-page-hero-image .gd-subnav a{font-size:17px!important;font-weight:700!important}
 .gd-footer-contact-item strong,#gd-footer .gd-footer-contact-item strong{font-size:17px!important;line-height:1.5!important;font-weight:800!important}
 .gd-footer-contact-item span,#gd-footer .gd-footer-contact-item span,#gd-footer .gd-footer-contact-area span{font-size:18px!important;line-height:1.8!important;font-weight:500!important}
-.gd-home-stats .gd-stats-box{background:rgba(35,39,42,.5)!important;box-shadow:0 16px 48px rgba(0,0,0,.16)!important;backdrop-filter:blur(12px)!important;-webkit-backdrop-filter:blur(12px)!important}
+.gd-home-stats .gd-stats-box{background:rgba(35,39,42,.72)!important;box-shadow:0 16px 48px rgba(0,0,0,.22)!important;backdrop-filter:blur(12px)!important;-webkit-backdrop-filter:blur(12px)!important}
 .gd-home-stats .gd-stats-box .gd-stat,.gd-home-stats .gd-stats-box .gd-stat strong,.gd-home-stats .gd-stats-box .gd-stat span{color:#fff!important;-webkit-text-fill-color:#fff!important}
 .gd-home-stats .gd-stats-box .gd-stat{border-color:rgba(255,255,255,.2)!important}
 @media(max-width:820px){.gd-page-hero .gd-breadcrumb{font-size:15px!important}.gd-page-hero p,.gd-page-hero-image p{font-size:17px!important}.gd-page-hero .gd-subnav a,.gd-page-hero-image .gd-subnav a{font-size:16px!important}.gd-footer-contact-item strong,#gd-footer .gd-footer-contact-item strong{font-size:16px!important}.gd-footer-contact-item span,#gd-footer .gd-footer-contact-item span,#gd-footer .gd-footer-contact-area span{font-size:16px!important}}
